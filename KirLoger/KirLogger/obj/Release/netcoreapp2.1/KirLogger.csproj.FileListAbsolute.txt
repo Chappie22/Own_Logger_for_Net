@@ -1,0 +1,8 @@
+/Users/kirill/Desktop/KirLoger/KirLogger/bin/Release/netcoreapp2.1/KirLogger.deps.json
+/Users/kirill/Desktop/KirLoger/KirLogger/bin/Release/netcoreapp2.1/KirLogger.dll
+/Users/kirill/Desktop/KirLoger/KirLogger/bin/Release/netcoreapp2.1/KirLogger.pdb
+/Users/kirill/Desktop/KirLoger/KirLogger/obj/Release/netcoreapp2.1/KirLogger.csproj.CoreCompileInputs.cache
+/Users/kirill/Desktop/KirLoger/KirLogger/obj/Release/netcoreapp2.1/KirLogger.AssemblyInfoInputs.cache
+/Users/kirill/Desktop/KirLoger/KirLogger/obj/Release/netcoreapp2.1/KirLogger.AssemblyInfo.cs
+/Users/kirill/Desktop/KirLoger/KirLogger/obj/Release/netcoreapp2.1/KirLogger.dll
+/Users/kirill/Desktop/KirLoger/KirLogger/obj/Release/netcoreapp2.1/KirLogger.pdb

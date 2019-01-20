@@ -1,0 +1,9 @@
+/Users/kirill/Desktop/KirLoger/KirLoger/bin/Debug/netcoreapp2.1/KirLoger.deps.json
+/Users/kirill/Desktop/KirLoger/KirLoger/bin/Debug/netcoreapp2.1/KirLoger.dll
+/Users/kirill/Desktop/KirLoger/KirLoger/bin/Debug/netcoreapp2.1/KirLoger.pdb
+/Users/kirill/Desktop/KirLoger/KirLoger/obj/Debug/netcoreapp2.1/KirLoger.csprojAssemblyReference.cache
+/Users/kirill/Desktop/KirLoger/KirLoger/obj/Debug/netcoreapp2.1/KirLoger.csproj.CoreCompileInputs.cache
+/Users/kirill/Desktop/KirLoger/KirLoger/obj/Debug/netcoreapp2.1/KirLoger.AssemblyInfoInputs.cache
+/Users/kirill/Desktop/KirLoger/KirLoger/obj/Debug/netcoreapp2.1/KirLoger.AssemblyInfo.cs
+/Users/kirill/Desktop/KirLoger/KirLoger/obj/Debug/netcoreapp2.1/KirLoger.dll
+/Users/kirill/Desktop/KirLoger/KirLoger/obj/Debug/netcoreapp2.1/KirLoger.pdb

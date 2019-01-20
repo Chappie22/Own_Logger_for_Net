@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="664a598b-8f81-474b-b75f-228524e4901a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KirLogger/Logger.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2925">
+              <caret line="166" column="71" selection-start-line="166" selection-start-column="71" selection-end-line="166" selection-end-column="71" />
+              <folding>
+                <marker date="1547946427288" expanded="false" signature="6:30" ph="..." />
+                <marker date="1547946427288" expanded="true" signature="51:6637" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="77:6635" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="492:677" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="550:667" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="721:924" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="785:914" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="965:1159" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="1026:1149" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="1202:1402" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="1265:1392" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="1412:1483" ph="/// Restores the sequence. ... " />
+                <marker date="1547946427288" expanded="true" signature="1520:1670" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="1728:1851" ph="/// Obligatory in  the end. Closes the file stream used for writing down logs. ... " />
+                <marker date="1547946427288" expanded="true" signature="1989:2457" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="2522:2654" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="2664:2980" ph="/// Obligatory first step .Creates a *.log file for the future logs. ... " />
+                <marker date="1547946427288" expanded="true" signature="3051:3196" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="3206:3622" ph="/// Sets the custom sequence of how the each type will write down in file. ... " />
+                <marker date="1547946427288" expanded="true" signature="3742:3939" ph="{...}" />
+                <marker date="1547946427288" expanded="true" signature="3949:4105" ph="/// All levels including custom levels. ... " />
+                <marker date="1547946427288" expanded="true" signature="4188:4399" ph="/// Designates fine-grained informational events that are most useful to debug an application. ... " />
+                <marker date="1547946427288" expanded="true" signature="4486:4712" ph="/// Designates informational messages that highlight the progress of the application at coarse-grained level. ... " />
+                <marker date="1547946427288" expanded="true" signature="4797:4960" ph="/// Designates potentially harmful situations. ... " />
+                <marker date="1547946427288" expanded="true" signature="5045:5249" ph="/// Designates error events that might still allow the application to continue running. ... " />
+                <marker date="1547946427288" expanded="true" signature="5336:5544" ph="/// Designates very severe error events that will presumably lead the application to abort. ... " />
+                <marker date="1547946427288" expanded="true" signature="5631:5814" ph="/// The highest possible rank and is intended to turn off logging. ... " />
+                <marker date="1547946427288" expanded="true" signature="5897:6079" ph="/// Designates finer-grained informational events than the DEBUG. ... " />
+                <marker date="1547946427288" expanded="true" signature="6219:6629" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Library/Logs/Rider2018.3/SolutionBuilder/JetBrainsLog.ReSharperBuild_2019_01_20_11_53_48_4995.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-29054" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/KirLogger/Logger.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/KirLoger/Class1.cs" />
+        <option value="$PROJECT_DIR$/KirLoger/Logger.cs" />
+        <option value="$PROJECT_DIR$/KirLogger/Logger.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="KirLoger" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="KirLoger" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="KirLogger" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="KirLoger" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="KirLogger" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="KirLoger" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="KirLogger" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".NETCoreApp 2.1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="KirLoger" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="KirLogger" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".NETCoreApp 2.1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SDK" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeCleanupOptionsPage" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="664a598b-8f81-474b-b75f-228524e4901a" name="Default Changelist" comment="" />
+      <created>1547934729364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547934729364</updated>
+      <workItem from="1547934731974" duration="9770000" />
+      <workItem from="1547945685638" duration="1111000" />
+      <workItem from="1547984551888" duration="881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11762000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="14" visible="true" weight="0.32959184" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/KirLogger/Logger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2925">
+          <caret line="166" column="71" selection-start-line="166" selection-start-column="71" selection-end-line="166" selection-end-column="71" />
+          <folding>
+            <marker date="1547946427288" expanded="false" signature="6:30" ph="..." />
+            <marker date="1547946427288" expanded="true" signature="51:6637" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="77:6635" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="492:677" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="550:667" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="721:924" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="785:914" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="965:1159" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="1026:1149" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="1202:1402" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="1265:1392" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="1412:1483" ph="/// Restores the sequence. ... " />
+            <marker date="1547946427288" expanded="true" signature="1520:1670" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="1728:1851" ph="/// Obligatory in  the end. Closes the file stream used for writing down logs. ... " />
+            <marker date="1547946427288" expanded="true" signature="1989:2457" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="2522:2654" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="2664:2980" ph="/// Obligatory first step .Creates a *.log file for the future logs. ... " />
+            <marker date="1547946427288" expanded="true" signature="3051:3196" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="3206:3622" ph="/// Sets the custom sequence of how the each type will write down in file. ... " />
+            <marker date="1547946427288" expanded="true" signature="3742:3939" ph="{...}" />
+            <marker date="1547946427288" expanded="true" signature="3949:4105" ph="/// All levels including custom levels. ... " />
+            <marker date="1547946427288" expanded="true" signature="4188:4399" ph="/// Designates fine-grained informational events that are most useful to debug an application. ... " />
+            <marker date="1547946427288" expanded="true" signature="4486:4712" ph="/// Designates informational messages that highlight the progress of the application at coarse-grained level. ... " />
+            <marker date="1547946427288" expanded="true" signature="4797:4960" ph="/// Designates potentially harmful situations. ... " />
+            <marker date="1547946427288" expanded="true" signature="5045:5249" ph="/// Designates error events that might still allow the application to continue running. ... " />
+            <marker date="1547946427288" expanded="true" signature="5336:5544" ph="/// Designates very severe error events that will presumably lead the application to abort. ... " />
+            <marker date="1547946427288" expanded="true" signature="5631:5814" ph="/// The highest possible rank and is intended to turn off logging. ... " />
+            <marker date="1547946427288" expanded="true" signature="5897:6079" ph="/// Designates finer-grained informational events than the DEBUG. ... " />
+            <marker date="1547946427288" expanded="true" signature="6219:6629" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Logs/Rider2018.3/SolutionBuilder/JetBrainsLog.ReSharperBuild_2019_01_20_11_53_48_4995.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29054" />
+      </provider>
+    </entry>
+  </component>
+</project>
