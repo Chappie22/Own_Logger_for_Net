@@ -9,7 +9,7 @@ Options, what are available using lib: \
 **Obligatory things:\
 1st obligatory step (Setup the file, which will be created and used for logs) = Logger.FileSetup(string filePath, string fileName); \
 ...(Some logs) e.g. Logger.WARN("This is a warn message"); \
-2nd obligatory step (Safely close the file stream, used for logs) = Logger.Close();\**
+2nd obligatory step (Safely close the file stream, used for logs) = Logger.Close();**
 \
 
 
